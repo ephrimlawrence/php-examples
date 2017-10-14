@@ -64,6 +64,12 @@
     }
     ?>
     <div class="container">
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <h1 class="display-3">JESUS is Coming Soon!!!</h1>
+                <p class="lead">Prepare yourself to meet</p>
+            </div>
+        </div>
         <div class="grade-form">
             <form action="<?php $_PHP_SELF ?>" method="GET">
                 <div class="form-group" align="center">
